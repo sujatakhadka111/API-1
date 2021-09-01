@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM node:16.8.0-alpine3.13
 
 # WORKDIR create the directory and then execute cd
 WORKDIR /home/container
