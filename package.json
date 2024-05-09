@@ -43,7 +43,7 @@
     "express": "^4.16.3",
     "ioredis": "*",
     "mailgun-js": "^0.22.0",
-    "swagger-ui-express": "^4.1.4",
+    "swagger-ui-express": "^4.3.0",
     "tough-cookie": "^4.0.0"
   },
   "devDependencies": {
